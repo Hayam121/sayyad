@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085403637707",
+    "project_id": "sayyad-1f8e6",
+    "storage_bucket": "sayyad-1f8e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085403637707:android:978157c31f0cd58f33f84e",
+        "android_client_info": {
+          "package_name": "com.example.sayyad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD96Ek-OlR6U1A8Tq2s-V_aZYTinYJhOTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
