@@ -37,8 +37,6 @@ dependencies:
   firebase_messaging: ^15.1.6
   firebase_core: ^3.9.0
   another_flutter_splash_screen: ^1.2.1
-  easy_web_view: ^2.1.0
-  flutter_inappwebview: ^6.1.5
   webview_flutter: ^4.10.0
 
 dev_dependencies:
