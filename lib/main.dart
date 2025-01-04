@@ -96,7 +96,7 @@ class _MySplashScreenState extends State<MySplashScreen> {
         childWidget: SizedBox(
           height: 200,
           width: 200,
-          child: Image.asset("images/logo.jpg"),
+          child: Image.asset("images/logo.png"),
         ),
         onAnimationEnd: () => debugPrint("On Fade In End"),
         nextScreen: MyHomePage(),
